@@ -1,4 +1,4 @@
-# GeneralLokShabaElection-DataAnalysis (Data Analysis via Web Scraping)
+# LokShabaElection2024-DataAnalysis (Data Analysis via Web Scraping)
 
 
 This project entails collecting and analyzing data from the recently concluded Lok Sabha elections. The data is scraped from the Election Commission of India's website and is used to generate a comprehensive report highlighting key insights. Various visualizations are created to effectively present the findings.
